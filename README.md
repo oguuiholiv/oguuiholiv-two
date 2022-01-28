@@ -30,8 +30,8 @@
  
 </div>
   
-- 👋 Olá, siga-me na rede vizinha @oguuiholiv , sou programador Front-End "APOSENTADO", retornando a ativa agora, e me capacitando para ser Full Stack.
-- 👀 Voltando a estudar programação agora...
-- 🌱 JS/PHP/HTML/CSS/REACT/ANGULAR/BOOTSTRAP/C#
+- 👋 Olá, siga-me na rede vizinha @oguuiholiv , sou programador Front-End, retornando a ativa agora, e me capacitando para ser Full Stack.
+- 👀 Começando o github agora.....
+- 🌱 JS/HTML/CSS/REACT/BOOTSTRAP/Python
 
 
